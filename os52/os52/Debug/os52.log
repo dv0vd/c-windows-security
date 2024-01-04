@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\os52\os52\source.cpp(98): error C3861: 'StringCchCopy': identifier not found
+c:\users\vd\source\repos\os52\os52\source.cpp(99): error C3861: 'StringCchPrintf': identifier not found
+c:\users\vd\source\repos\os52\os52\source.cpp(507): error C2065: 'hWnd': undeclared identifier
+c:\users\vd\source\repos\os52\os52\source.cpp(508): error C2065: 'hWnd': undeclared identifier
+c:\users\vd\source\repos\os52\os52\source.cpp(510): error C2065: 'hWnd': undeclared identifier

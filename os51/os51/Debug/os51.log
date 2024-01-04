@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\os51\os51\source.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\vd\source\repos\os51\os51\source.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  os51.vcxproj -> C:\Users\VD\source\repos\os51\Debug\os51.exe

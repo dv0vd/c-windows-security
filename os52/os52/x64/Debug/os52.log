@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\os52\os52\source.cpp(74): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os52\os52\source.cpp(139): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os52\os52\source.cpp(215): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os52\os52\source.cpp(284): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os52\os52\source.cpp(374): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+  os52.vcxproj -> C:\Users\VD\source\repos\os52\x64\Debug\os52.exe
